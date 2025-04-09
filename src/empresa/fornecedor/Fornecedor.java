@@ -19,6 +19,7 @@ public class Fornecedor {
         this.cnpj = cnpj;
     }
 
+    //Construi o construtor, onde ele vai inserir os dados dentro do objeto
     public Fornecedor(long cnpj, String nome) {
         this.cnpj = cnpj;
         this.nome = nome;

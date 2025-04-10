@@ -92,7 +92,7 @@ public class Util {
                 return fornecedor[i];
             }
         }
-        showMessageDialog(null, "CNPJ não cadastrado");
+        showMessageDialog(null, "CNPJ não foi cadastrado");
         return null;
     }
 
